@@ -11,7 +11,7 @@ This project demonstrates how smart contracts work on the [Solana](https://solan
 Solana is a high performance modern blockchain with impressive throughput capabilities. It can handle 50,000 transactions per second which makes it scalable and fast enough to enable a new era of decentralised applications (dApps).
 
 <p>
-  <img alt="smart contracts" src="screenshots/smart contracts.png" width="400" />
+  <img alt="smart contracts" src="screenshots/smart contracts.jpg" width="400" />
 </p>
 
 ## What are the pros and cons of building smart contracts on Solana?
